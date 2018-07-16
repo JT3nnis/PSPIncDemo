@@ -1,0 +1,149 @@
+﻿body {
+    margin: 0;
+    background-color: #b1c9ef;
+}
+#psp-menu {
+    padding-top:10px;
+    background-color: #5275ab;
+    padding-bottom:10px;
+}
+#psp-menu ul {
+    font-family:Helvetica;
+    font-size:12px;
+    font-weight:bold;
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    margin: 0 auto;
+    width:80%;
+    color: #000;
+}
+#psp-menu li {
+    display: inline;
+    margin-right:20px;
+}
+#psp-menu li a{
+    text-decoration:none;
+}
+#psp-menu li a:visited {
+    text-decoration: none;
+}
+#psp-menu li a:hover {
+    text-decoration: underline;
+}
+.active{
+    color: #fff;
+}
+.unactive{
+    color: #000;
+}
+#psp-title {
+    background-color: #0d2853;
+}
+#psp-title-header {
+    font-family: 'Roboto';
+    font-size: 36px;
+    font-weight:bold;
+    color: #fff;
+    text-align: center;
+    padding-top:25px;
+}
+#psp-title-subheader {
+    font-family: 'Roboto';
+    font-size: 27px;
+    font-weight: bold;
+    color: #caebf2;
+    text-align: center;
+    padding-top: 25px;
+    padding-bottom:25px;
+}
+#psp-content-container {
+    margin-left:auto;
+    margin-right:auto;
+    width: 80%;
+    background-color: #fff;
+    padding-top: 20px;
+    font-family: Arial;
+    padding-bottom:20px;
+}
+#psp-content-home {
+    vertical-align: top;
+    padding-left: 10px;
+    width: 80%;
+    font-size:14px;
+    font-weight:normal;
+    text-align:left;
+}
+.psp-content-header {
+    font-size: 20px;
+    font-weight: bold;
+    color: #5275ac;
+}
+.psp-content-text {
+    margin-top:15px; 
+    margin-right:20px;
+}
+#psp-content-news {
+    vertical-align: top;
+    text-align:left;
+}
+#psp-content-news-list ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+.psp-content-news-date {
+    padding-top: 20px;
+    font-size: 12px;
+    font-style: italic;
+}
+.psp-content-news-icon {
+    float:left;
+    margin-right:5px;
+}
+.psp-content-news-link {
+    font-size: 14px;
+    font-weight: normal;
+}
+.psp-content-news-link a{
+    text-decoration:none;
+    display:inline-block;
+    margin-top:5px;
+}
+#psp-footer-menu {
+    margin-top: 20px;
+    text-align: center;
+    font-family: Helvetica;
+    font-size:14px; 
+}
+#psp-footer-menu ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+#psp-footer-menu li {
+    display: inline;
+    margin-right: 20px;
+}
+#psp-footer-menu li a {
+    text-decoration: none;
+}
+
+#psp-footer-menu a:visited {
+    text-decoration: none;
+}
+
+#psp-footer-menu li a:hover {
+    text-decoration: underline;
+}
+#psp-footer-copyright {
+    font-family:Arial;
+    font-size:14px;
+    text-align:center;
+    margin-top:20px;
+    font-weight:bold;
+}
+
+
+
+
